@@ -5,7 +5,7 @@ This is normal text
 
 ### Header 3
 
-** BOLD **
+**BOLD**
 
 - [ ] Checklist
 
